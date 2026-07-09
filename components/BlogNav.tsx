@@ -4,6 +4,7 @@ const tabs = [
   { href: "/blog/frontend", label: "Frontend" },
   { href: "/blog/backend", label: "Backend" },
   { href: "/blog/mobile", label: "Mobile" },
+  { href: "/get-all-stories", label: "All Stories" }
 ];
 
 export default function BlogNav() {
