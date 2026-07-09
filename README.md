@@ -114,7 +114,7 @@ my-learning-journey/
 ## Live Deployment
 
 - **GitHub Repository:** `https://github.com/Umutoni123-aa/my-learning-journey`
-- **Live Site:** `<>`
+- **Live Site:** `https://frabjous-douhua-4b8302.netlify.app/`
 
 ---
 
